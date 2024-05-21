@@ -6,11 +6,11 @@ html {
 }
 
 body {
-  width: 930px;
-  margin: 0 auto;
+  width: 930px #6A1B9C;
+  margin: 0 auto #6A1B9C;
   background-color: #6A1B9C;
-  border: 1px solid black;
-  padding: 0 20px 20px 20px;
+  border: 1px solid #6A1B9C;
+  padding: 0 20px 20px 20px #6A1B9C;
 }
 
 img {
@@ -44,4 +44,9 @@ p {
 
 a {
 	color: red;
+}
+
+button {
+	height: 40px;
+	width: 190px;
 }
